@@ -35,7 +35,7 @@ extensions = [
     'sphinxext.opengraph',
 ]
 
-blog_title = 'Read the Docs Blog'
+blog_title = 'TracyTest-Read the Docs Blog'
 blog_baseurl = 'https://blog.readthedocs.com'
 blog_path = 'archive'
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
@@ -167,7 +167,7 @@ html_theme_options = {
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'Read the Docs Blog'
+html_title = 'TracyTest-Read the Docs Blog'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
