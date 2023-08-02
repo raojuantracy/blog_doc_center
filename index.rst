@@ -1,6 +1,6 @@
 Recent posts
 ============
 
-.. postlist:: 10
+.. postlist:: 20
     :excerpts:
     :format: {date} - {title}
