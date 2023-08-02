@@ -7,6 +7,8 @@
 Builds with no ``index.html`` at its output's directory are deprecated
 ======================================================================
 
+**Just a test** modify this .rst source file and automatically trigger the doc build.
+
 Historically, Read the Docs has created an auto-generated ``index.html`` file with minimal instructions about how to setup the project correctly when your build didn’t output this file.
 This auto-generated file has confused more users than it has helped because the behavior on Read the Docs was different from the behavior on their local environment.
 
